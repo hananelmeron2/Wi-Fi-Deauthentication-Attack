@@ -5,6 +5,8 @@ short brief:
 
 in order to run the code you need to work with linux, and have wifi adapter card
 and then turn the computer into monitor mode .
+you also need scapy install in your pc, and air-crack-ng.
+because we use prettytable you need to install prettytable with the commend : sudo pip3 install PTable.
 you can do this opperations with the next commends:
 
 1. sudo ifconfig IFACE down
