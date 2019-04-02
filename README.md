@@ -27,7 +27,8 @@ inside the code:
 when the code will run you will see the list of ap in your area.
 then you need to choose the SSID mac,and then the SSID name and finaly the mac of the victim.
 after this opperations the attack will start with no time limit, you can stop the attact by 
-press ctrl-c or anything else.
+press ctrl-c .
+the code use scapy libary in python for the sniffing operation, and aireplay-ng .
 
 
 
