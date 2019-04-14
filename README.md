@@ -1,4 +1,4 @@
-# wi-fi-attacks
+# Wi-Fi Deauthentication Attack
 this code will make wifi deauthentication attack.
 
 short brief:
