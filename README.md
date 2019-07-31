@@ -2,7 +2,7 @@
 
 this code will make wifi deauthentication attack.
 
-short brief:
+# short brief:
 
 the code was written in python 3.6.
 in order to run the code you need to work with linux (vm will probably not work because there is some issues with the monitor mode),
