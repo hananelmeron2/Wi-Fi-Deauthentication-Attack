@@ -8,10 +8,10 @@ the code was written in python 3.6.
 
 # prerequest
 
-wifi adapter card
-airmon-ng , (aircrcak-ng,)
-scapy
-prettytable
+wifi adapter card.
+airmon-ng , (aircrcak-ng,).
+scapy.
+prettytable.
 
 monitor mode :
 
