@@ -29,7 +29,7 @@ where IFACE is your wifi adapter card name.
 
 # usage
 base operation for more complicated attacks like mitm, evil twin, wifi passwords cracker and more..
-in the future the code will include gui.
+in the future the code will include  base gui.
 
 
 
